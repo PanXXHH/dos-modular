@@ -1,2 +1,7 @@
 # dos-modular
-I am working hard on my English
+
+[README](README.md) | [中文文档](README_zh.md)
+
+## What is dos-modular?
+
+I will tell you more about that.
